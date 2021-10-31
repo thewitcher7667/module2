@@ -145,15 +145,9 @@ h1 {
    width:200px;  height:40px;
 }
 
-h3 {
-	padding:3px; margin:5px;
-	border:solid 4px black ;
-	
-	color: #BCB1B1;
-	width:120px;
-	position:absolute;left:%;
-}
-article {
+
+
+section {
 	font-weight:italic;
 	padding: 15px;
 	margin:20px; 
@@ -163,7 +157,7 @@ article {
    color:ghostwhite;
    font-size:15px;
    height:200px;
-   padding-top:40px;
+   padding-top:px;
    
 
 }
@@ -173,4 +167,32 @@ p{
 	width: 100%;
 }
 
- a {background-color:white;}
+ 
+#a{padding:3px; margin:5px; 
+  border:solid 4px black ;
+  
+  color: #BCB1B1;
+  width:120px;
+  position:relative;right:20px;bottom:20px;
+  background-color:white;
+
+}
+
+#b{padding:3px; margin:5px; 
+  border:solid 4px black ;
+  
+  color: #BCB1B1;
+  width:140px;
+position:relative;right:20px;bottom:20px;
+background-color:black;
+
+}
+
+#c{padding:3px; margin:5px; 
+  border:solid 4px black ;
+  
+  color: #BCB1B1;
+  width:120px;
+position:relative;right:20px;bottom:20px;
+background-color:crimson;
+}
